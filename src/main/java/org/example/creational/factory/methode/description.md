@@ -1,6 +1,7 @@
 1. Factory Method
 - is a creational design pattern that provides an interface for creating objects in a superclass, but
   allows subclasses to alter the type of objects that will be created.
+- pattern can potentially violate the Open/Closed Principle (OCP)
 - Problem :
     - logistic app with truck(road) and letter you got requirement for ship(sea logistic)
       you added all logic into single class and now if need add new functionality, you need to

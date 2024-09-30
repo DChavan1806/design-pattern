@@ -4,6 +4,7 @@
   without specifying their concrete classes. 
   It is useful when your system needs to support multiple product families, 
   and you want to ensure that the products from the same family are used together.
+- pattern can potentially violate the Open/Closed Principle (OCP)
 - Problem :
     - Imagine you're building a game where different kingdoms need their own distinct sets of objects 
       (such as kings, castles, and armies). 
