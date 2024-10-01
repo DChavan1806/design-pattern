@@ -1,4 +1,4 @@
-package org.example.creational.prototype;
+package design.pattern.creational.prototype;
 
 public class PrototypePatternExample {
 

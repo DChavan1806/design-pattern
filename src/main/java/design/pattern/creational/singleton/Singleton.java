@@ -1,4 +1,4 @@
-package org.example.creational.singleton;
+package design.pattern.creational.singleton;
 
 public class Singleton {
     // Volatile keyword ensures that multiple threads handle the instance correctly

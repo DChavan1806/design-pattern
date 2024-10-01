@@ -1,4 +1,4 @@
-package org.example.creational.factory.methode;
+package design.pattern.creational.factory.methode;
 
 // Step 1: Create a common interface for transport types //product
 interface Transport {

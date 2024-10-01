@@ -1,4 +1,4 @@
-package org.example.creational.abstract1.factory;
+package design.pattern.creational.abstract1.factory;
 
 /*
   Abstract Factory Pattern can be applied to a scenario where you create Debit Cards and Credit Cards.

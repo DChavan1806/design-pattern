@@ -1,4 +1,4 @@
-package org.example.creational.builder;
+package design.pattern.creational.builder;
 
 // House Class
 final class House {
