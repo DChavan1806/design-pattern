@@ -5,7 +5,7 @@ Structural Pattern :
 1. Adapter
 2. Bridge
 3. Composite
-4. Decorate 
+4. Decorate - not implemented 
 5. facade
-6. flyweight
+6. flyweight - not implemented
 7. proxy
